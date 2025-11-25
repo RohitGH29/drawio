@@ -4,6 +4,38 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VCg2eXgLOHHmMXXaqRcK-6" edge="1" parent="1" source="VCg2eXgLOHHmMXXaqRcK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="VCg2eXgLOHHmMXXaqRcK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VCg2eXgLOHHmMXXaqRcK-1" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cloudtrail;" value="AWS&#xa;CloudTrail" vertex="1">
+          <mxGeometry height="110" width="80" x="50" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VCg2eXgLOHHmMXXaqRcK-2" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cloudwatch;" value="Amazon CloudWatch" vertex="1">
+          <mxGeometry height="110" width="80" x="220" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VCg2eXgLOHHmMXXaqRcK-9" edge="1" parent="1" source="VCg2eXgLOHHmMXXaqRcK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="VCg2eXgLOHHmMXXaqRcK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VCg2eXgLOHHmMXXaqRcK-3" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Elastic_Job_Agents.svg;" value="Elastic agent" vertex="1">
+          <mxGeometry height="64" width="64" x="393" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VCg2eXgLOHHmMXXaqRcK-4" parent="1" style="shape=rect;fillColor=#0F62FE;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=14;" value="Elasticsearch" vertex="1">
+          <mxGeometry height="48" width="48" x="560" y="108" as="geometry" />
+        </mxCell>
+        <mxCell id="VCg2eXgLOHHmMXXaqRcK-5" parent="VCg2eXgLOHHmMXXaqRcK-4" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.database--elastic" value="" vertex="1">
+          <mxGeometry height="24" relative="1" width="24" as="geometry">
+            <mxPoint x="12" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VCg2eXgLOHHmMXXaqRcK-8" edge="1" parent="1" source="VCg2eXgLOHHmMXXaqRcK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.031;entryY=0.703;entryDx=0;entryDy=0;entryPerimeter=0;" target="VCg2eXgLOHHmMXXaqRcK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VCg2eXgLOHHmMXXaqRcK-10" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_alert;" value="&lt;div&gt;Elastalert&lt;/div&gt;" vertex="1">
+          <mxGeometry height="42.5" width="50" x="559" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="VCg2eXgLOHHmMXXaqRcK-12" edge="1" parent="1" source="VCg2eXgLOHHmMXXaqRcK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="VCg2eXgLOHHmMXXaqRcK-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
