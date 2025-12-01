@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.2.1">
   <diagram name="Page-1" id="hDDahE-TXKoWsacF2rhD">
     <mxGraphModel dx="737" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9,11 +9,6 @@
         </mxCell>
         <mxCell id="YsagGCAB7j8wPrAvBrA_-1" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Windows_Non_Azure.svg;" value="" vertex="1">
           <mxGeometry height="110.4" width="120" x="80" y="110" as="geometry" />
-        </mxCell>
-        <mxCell id="YsagGCAB7j8wPrAvBrA_-10" edge="1" parent="1" source="YsagGCAB7j8wPrAvBrA_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="444" y="290" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="YsagGCAB7j8wPrAvBrA_-2" parent="1" style="shape=rect;fillColor=#0F62FE;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=14;arcSize=50;miterlimit=4;" value="Elasticsearch" vertex="1">
           <mxGeometry height="48" width="48" x="420" y="130" as="geometry" />
@@ -26,8 +21,13 @@
         <mxCell id="YsagGCAB7j8wPrAvBrA_-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="winlogbeat" vertex="1">
           <mxGeometry height="30" width="60" x="200" y="130" as="geometry" />
         </mxCell>
+        <mxCell id="anOiXyXWZzNEI_kpv_il-1" edge="1" parent="1" source="YsagGCAB7j8wPrAvBrA_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="151.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YsagGCAB7j8wPrAvBrA_-6" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_alert;" value="&lt;div&gt;Elastalert&lt;/div&gt;" vertex="1">
-          <mxGeometry height="42.5" width="50" x="420" y="300" as="geometry" />
+          <mxGeometry height="42.5" width="50" x="610" y="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
