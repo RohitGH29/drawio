@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.2.1">
   <diagram name="Page-1" id="Fo8aDJ-54Km9R1SkxpKg">
     <mxGraphModel dx="737" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,8 +7,11 @@
         <mxCell id="QZ9SbB4xmRz2-_NzALMr-1" edge="1" parent="1" source="QZ9SbB4xmRz2-_NzALMr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QZ9SbB4xmRz2-_NzALMr-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9F0cxbe4Iu4q3bKuSoRj-1" edge="1" parent="1" source="QZ9SbB4xmRz2-_NzALMr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QZ9SbB4xmRz2-_NzALMr-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QZ9SbB4xmRz2-_NzALMr-2" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Elastic_Job_Agents.svg;" value="Elastic agent" vertex="1">
-          <mxGeometry height="64" width="64" x="663" y="110" as="geometry" />
+          <mxGeometry height="64" width="64" x="663" y="118" as="geometry" />
         </mxCell>
         <mxCell id="QZ9SbB4xmRz2-_NzALMr-3" parent="1" style="shape=rect;fillColor=#0F62FE;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=14;" value="Elasticsearch" vertex="1">
           <mxGeometry height="48" width="48" x="830" y="118" as="geometry" />
@@ -18,17 +21,14 @@
             <mxPoint x="12" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9F0cxbe4Iu4q3bKuSoRj-2" edge="1" parent="1" source="QZ9SbB4xmRz2-_NzALMr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QZ9SbB4xmRz2-_NzALMr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QZ9SbB4xmRz2-_NzALMr-5" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_alert;" value="&lt;div&gt;Elastalert&lt;/div&gt;" vertex="1">
           <mxGeometry height="42.5" width="50" x="829" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="QZ9SbB4xmRz2-_NzALMr-6" edge="1" parent="1" source="QZ9SbB4xmRz2-_NzALMr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="QZ9SbB4xmRz2-_NzALMr-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="QZ9SbB4xmRz2-_NzALMr-8" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cloudwatch;" value="Amazon CloudWatch" vertex="1">
           <mxGeometry height="110" width="80" x="490" y="110" as="geometry" />
-        </mxCell>
-        <mxCell id="QZ9SbB4xmRz2-_NzALMr-9" edge="1" parent="1" source="QZ9SbB4xmRz2-_NzALMr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.016;entryY=0.859;entryDx=0;entryDy=0;entryPerimeter=0;" target="QZ9SbB4xmRz2-_NzALMr-2">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QZ9SbB4xmRz2-_NzALMr-10" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.025;entryY=0.455;entryDx=0;entryDy=0;entryPerimeter=0;" target="QZ9SbB4xmRz2-_NzALMr-8">
           <mxGeometry relative="1" as="geometry">
