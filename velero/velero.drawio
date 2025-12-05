@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GvRuVrQLJJjhwQ4k86zW-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="200" width="200" x="80" y="110" as="geometry" />
+          <mxGeometry height="160" width="160" x="80" y="110" as="geometry" />
         </mxCell>
         <mxCell id="GvRuVrQLJJjhwQ4k86zW-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Velero" vertex="1">
           <mxGeometry height="50" width="50" x="90" y="120" as="geometry" />
