@@ -4,11 +4,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cX5PWZHiR0UVS0Lc4bQP-3" edge="1" parent="1" source="_0Q8Sl-pw0Tp0EFKzwS1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cX5PWZHiR0UVS0Lc4bQP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cX5PWZHiR0UVS0Lc4bQP-4" edge="1" parent="1" source="_0Q8Sl-pw0Tp0EFKzwS1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cX5PWZHiR0UVS0Lc4bQP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_0Q8Sl-pw0Tp0EFKzwS1-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="psp-core-prod" vertex="1">
-          <mxGeometry height="60" width="120" x="300" y="70" as="geometry" />
+          <mxGeometry height="60" width="120" x="290" y="70" as="geometry" />
         </mxCell>
         <mxCell id="_0Q8Sl-pw0Tp0EFKzwS1-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ingress" vertex="1">
-          <mxGeometry height="20" width="50" x="300" y="70" as="geometry" />
+          <mxGeometry height="20" width="50" x="290" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cX5PWZHiR0UVS0Lc4bQP-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;code&gt;psp-gateway-prod-service&lt;/code&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="120" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="cX5PWZHiR0UVS0Lc4bQP-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;code&gt;psp-npci-interface-prod-service&lt;/code&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="440" y="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
