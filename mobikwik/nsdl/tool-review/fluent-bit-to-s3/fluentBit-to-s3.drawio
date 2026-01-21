@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.4">
   <diagram name="Page-1" id="D4lq2QVNKIcv5dGLPn0W">
-    <mxGraphModel dx="1771" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1903" dy="1797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YBLilbU3_KN6Q3Mcxzu6-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="490" width="860" x="-120" as="geometry" />
+          <mxGeometry height="570" width="1060" x="-300" y="-80" as="geometry" />
         </mxCell>
         <mxCell id="6TKzfNHfwqoBrBo3QOYq-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="205" width="560" x="10" y="10" as="geometry" />
@@ -20,19 +20,13 @@
           <mxGeometry height="100" width="80" x="265" y="360" as="geometry" />
         </mxCell>
         <mxCell id="YBLilbU3_KN6Q3Mcxzu6-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Bucket name: nsdl-application-log-prod&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="260" x="200" y="460" as="geometry" />
+          <mxGeometry height="30" width="260" x="190" y="460" as="geometry" />
         </mxCell>
         <mxCell id="YBLilbU3_KN6Q3Mcxzu6-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PSP-Services-Pod" vertex="1">
           <mxGeometry height="30" width="110" x="270" y="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="YBLilbU3_KN6Q3Mcxzu6-9" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;" value="Application container" vertex="1">
-          <mxGeometry height="70" width="70" x="610" y="260" as="geometry" />
-        </mxCell>
-        <mxCell id="6TKzfNHfwqoBrBo3QOYq-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="AWS" vertex="1">
-          <mxGeometry height="30" width="60" x="-90" y="20" as="geometry" />
-        </mxCell>
         <mxCell id="6TKzfNHfwqoBrBo3QOYq-2" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;gradientColor=#7ea6e0;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Classification&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;: confidential&lt;/span&gt;&lt;/div&gt;&lt;b&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Version&lt;/b&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: 1.0&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;b&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Created on&lt;/b&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: 21-Jan-2026&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;text-align: center;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Reviewed on&lt;/b&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: 21-Jan-2025&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;b style=&quot;text-align: center;&quot;&gt;&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;&lt;b&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Author&lt;/b&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: Rohit&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;font-weight: bold; background-color: initial;&quot;&gt;Reviewed&amp;nbsp;by:&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Harsh Vardhan&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Approved by&lt;/b&gt;: Dilawar Singh&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="110" width="180" x="-110" y="270" as="geometry" />
+          <mxGeometry height="110" width="180" x="-270" y="-27.5" as="geometry" />
         </mxCell>
         <mxCell id="6TKzfNHfwqoBrBo3QOYq-3" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.virtual_private_cloud;fillColor=#F58534;gradientColor=none;strokeColor=#007FFF;" value="" vertex="1">
           <mxGeometry height="44" width="59.5" x="-10" y="6" as="geometry" />
