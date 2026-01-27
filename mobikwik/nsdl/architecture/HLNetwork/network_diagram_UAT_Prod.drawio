@@ -425,6 +425,12 @@
         <mxCell id="wAmMLng3mz0AxRSu_6DI-66" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" value="" vertex="1">
           <mxGeometry height="80" width="80" x="1510" y="2450" as="geometry" />
         </mxCell>
+        <mxCell id="wAmMLng3mz0AxRSu_6DI-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Virtual Private Gateway" vertex="1">
+          <mxGeometry height="30" width="170" x="1380" y="1550" as="geometry" />
+        </mxCell>
+        <mxCell id="wAmMLng3mz0AxRSu_6DI-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Virtual Private Gateway" vertex="1">
+          <mxGeometry height="30" width="170" x="2280" y="1974" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
