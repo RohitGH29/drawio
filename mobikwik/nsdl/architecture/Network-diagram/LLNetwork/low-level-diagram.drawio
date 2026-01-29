@@ -758,6 +758,9 @@
         <mxCell id="rlOFY49I31Hx1CSJnspg-6" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;div&gt;10.12.99.0/25&lt;b&gt;&amp;nbsp;(az-1a)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;10.12.99.128/25&lt;b&gt;&amp;nbsp;(az-1b)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.12.100.0/25&lt;b&gt;(az-1c)&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="150" x="768.35" y="1750" as="geometry" />
         </mxCell>
+        <mxCell id="rlOFY49I31Hx1CSJnspg-7" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;div&gt;10.12.102.192/26&lt;b&gt;&amp;nbsp;(az-1a)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;10.12.103.0/26&lt;b&gt;&amp;nbsp;(az-1b)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.12.103.64/26 (&lt;b&gt;az-1c)&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="413.35" y="2020" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
