@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="s_e3-NQhn_Ubqktr3WAS-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;strokeColor=light-dark(#922a2a, #ededed);" value="" vertex="1">
-          <mxGeometry height="730" width="1380" x="-190" y="1527.25" as="geometry" />
+          <mxGeometry height="730" width="1280" x="-190" y="1527.25" as="geometry" />
         </mxCell>
         <mxCell id="wtl2c_H-9Pgk3k2bpC6l-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="950" width="998.72" x="-1370" y="1035" as="geometry" />
@@ -740,7 +740,7 @@
           <mxGeometry height="110" width="80" x="-670" y="1196" as="geometry" />
         </mxCell>
         <mxCell id="rlOFY49I31Hx1CSJnspg-3" parent="1" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#007FFF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;infra-nsdl-subnet-admin-prod-database&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="156.64" width="226.69" x="730" y="1683.67" as="geometry" />
+          <mxGeometry height="156.64" width="226.69" x="740" y="1701.68" as="geometry" />
         </mxCell>
         <mxCell id="rlOFY49I31Hx1CSJnspg-4" edge="1" parent="1" source="wtl2c_H-9Pgk3k2bpC6l-52" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=3;strokeColor=#CC6600;dashPattern=1 1;flowAnimation=1;" value="">
           <mxGeometry relative="1" as="geometry">
@@ -753,10 +753,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rlOFY49I31Hx1CSJnspg-2" parent="1" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#007FFF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" value="&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;infra-nsdl-subnet-admin-prod-firewall&lt;/b&gt;" vertex="1">
-          <mxGeometry height="156.64" width="226.69" x="380" y="1956.14" as="geometry" />
+          <mxGeometry height="156.64" width="226.69" x="380.01" y="1950" as="geometry" />
         </mxCell>
         <mxCell id="rlOFY49I31Hx1CSJnspg-6" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;div&gt;10.12.99.0/25&lt;b&gt;&amp;nbsp;(az-1a)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;10.12.99.128/25&lt;b&gt;&amp;nbsp;(az-1b)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.12.100.0/25&lt;b&gt;(az-1c)&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="150" x="768.35" y="1750" as="geometry" />
+          <mxGeometry height="60" width="150" x="768.34" y="1760" as="geometry" />
         </mxCell>
         <mxCell id="rlOFY49I31Hx1CSJnspg-7" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;div&gt;10.12.102.192/26&lt;b&gt;&amp;nbsp;(az-1a)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;10.12.103.0/26&lt;b&gt;&amp;nbsp;(az-1b)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.12.103.64/26 (&lt;b&gt;az-1c)&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="413.35" y="2020" as="geometry" />
