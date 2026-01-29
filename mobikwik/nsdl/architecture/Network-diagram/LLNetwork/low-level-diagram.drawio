@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.4">
   <diagram name="Page-2" id="OU6sBK3JPVtz0nEnZWsY">
-    <mxGraphModel dx="4024" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3191" dy="424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -291,13 +291,13 @@
         <mxCell id="wtl2c_H-9Pgk3k2bpC6l-11" parent="1" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#007FFF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" value="" vertex="1">
           <mxGeometry height="170" width="220" x="171.66000000000003" y="1930" as="geometry" />
         </mxCell>
-        <mxCell id="lag_BDgYUlefeDjobDEi-79" edge="1" parent="1" source="wtl2c_H-9Pgk3k2bpC6l-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;startArrow=classic;startFill=1;" target="wtl2c_H-9Pgk3k2bpC6l-87" value="a">
+        <mxCell id="xA337OcoihOGHxSzfVrf-2" edge="1" parent="1" source="wtl2c_H-9Pgk3k2bpC6l-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;startArrow=classic;startFill=1;" target="wtl2c_H-9Pgk3k2bpC6l-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wtl2c_H-9Pgk3k2bpC6l-15" parent="1" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#007FFF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" value="&lt;font color=&quot;#3333ff&quot;&gt;&lt;b&gt;infra-nsdl-subnet-prod-public&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;10.12.85.0/24(az-1a)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;10.12.86.0/24(az-1b)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;10.12.87.0/24(az-1c)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="210" width="238.43" x="-1040" y="1378.75" as="geometry" />
         </mxCell>
-        <mxCell id="YwSrAM1OqNHmyz83SwRI-32" edge="1" parent="1" source="wtl2c_H-9Pgk3k2bpC6l-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" target="wtl2c_H-9Pgk3k2bpC6l-87" value="">
+        <mxCell id="YwSrAM1OqNHmyz83SwRI-32" edge="1" parent="1" source="wtl2c_H-9Pgk3k2bpC6l-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;startArrow=classic;startFill=1;" target="wtl2c_H-9Pgk3k2bpC6l-87" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-638" y="1370" />
