@@ -699,7 +699,7 @@
           <mxGeometry height="30" width="170" x="669.5" y="1995.5" as="geometry" />
         </mxCell>
         <mxCell id="1cjh8PNVG9wR04FhQGM2-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Virtual Private Gateway (VGW-0A10B153B11217990)" vertex="1">
-          <mxGeometry height="30" width="170" x="-350.0000000000001" y="1529.5" as="geometry" />
+          <mxGeometry height="30" width="170" x="-280.23000000000013" y="1451.37" as="geometry" />
         </mxCell>
         <mxCell id="1cjh8PNVG9wR04FhQGM2-23" edge="1" parent="1" source="1cjh8PNVG9wR04FhQGM2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeWidth=3;flowAnimation=1;fillColor=#fa6800;strokeColor=#C73500;" target="1cjh8PNVG9wR04FhQGM2-3">
           <mxGeometry relative="1" as="geometry" />
