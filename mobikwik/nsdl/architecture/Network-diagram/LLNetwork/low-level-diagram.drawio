@@ -253,7 +253,7 @@
         <mxCell id="wtl2c_H-9Pgk3k2bpC6l-18" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.virtual_private_cloud;fillColor=#F58534;gradientColor=none;strokeColor=#007FFF;" value="" vertex="1">
           <mxGeometry height="54" width="79.5" x="-1269.7499999999998" y="1060" as="geometry" />
         </mxCell>
-        <mxCell id="wtl2c_H-9Pgk3k2bpC6l-19" parent="1" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#007FFF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;infra-nsdl-subnet-admin-prod-internal-lb&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="wtl2c_H-9Pgk3k2bpC6l-19" parent="1" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#007FFF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" value="&lt;b&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;infra-nsdl-subnet-admin-prod-public&lt;/span&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="156.64" width="226.69" x="380" y="1701.6799999999998" as="geometry" />
         </mxCell>
         <mxCell id="wtl2c_H-9Pgk3k2bpC6l-20" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&amp;nbsp;infra-nsdl-vpc-admin-prod&lt;br&gt;VPC Mumbai&lt;/b&gt;" vertex="1">
@@ -265,7 +265,7 @@
         <mxCell id="wtl2c_H-9Pgk3k2bpC6l-23" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.virtual_private_cloud;fillColor=#F58534;gradientColor=none;strokeColor=#007FFF;" value="" vertex="1">
           <mxGeometry height="54" width="79.5" x="-169.49999999999994" y="1555.07" as="geometry" />
         </mxCell>
-        <mxCell id="wtl2c_H-9Pgk3k2bpC6l-24" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;div&gt;&lt;b&gt;10.12.100.128/25 (az-1a)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;10.12.101.128/25 (az-1b)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;10.12.101.0/25(az-1c)&lt;/b&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="wtl2c_H-9Pgk3k2bpC6l-24" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;div&gt;10.12.102.0/26&lt;b&gt;(az-1a)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;10.12.101.128/25 (az-1b)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;10.12.101.0/25(az-1c)&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="425" y="1759.9999999999998" as="geometry" />
         </mxCell>
         <mxCell id="wtl2c_H-9Pgk3k2bpC6l-31" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#331A00;" value="&lt;b&gt;Employee&lt;/b&gt;" vertex="1">
