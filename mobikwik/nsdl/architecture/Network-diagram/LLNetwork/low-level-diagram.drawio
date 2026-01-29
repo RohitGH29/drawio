@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.6">
   <diagram name="Page-2" id="OU6sBK3JPVtz0nEnZWsY">
-    <mxGraphModel dx="4656" dy="1394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="5498" dy="1952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -690,22 +690,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1cjh8PNVG9wR04FhQGM2-3" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.vpn_gateway;" value="" vertex="1">
-          <mxGeometry height="78" width="78" x="-190" y="1400" as="geometry" />
+          <mxGeometry height="78" width="78" x="-371.28" y="1427.37" as="geometry" />
         </mxCell>
         <mxCell id="1cjh8PNVG9wR04FhQGM2-4" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.vpn_gateway;" value="" vertex="1">
-          <mxGeometry height="78" width="78" x="565.5699999999999" y="1868" as="geometry" />
+          <mxGeometry height="78" width="78" x="591.4999999999999" y="1980" as="geometry" />
         </mxCell>
         <mxCell id="1cjh8PNVG9wR04FhQGM2-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Virtual Private Gateway (vgw-049013b8a082df9a6)" vertex="1">
-          <mxGeometry height="30" width="170" x="669.5" y="1900" as="geometry" />
+          <mxGeometry height="30" width="170" x="669.5" y="1995.5" as="geometry" />
         </mxCell>
         <mxCell id="1cjh8PNVG9wR04FhQGM2-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Virtual Private Gateway (VGW-0A10B153B11217990)" vertex="1">
-          <mxGeometry height="30" width="170" x="-236.0000000000001" y="1499.5" as="geometry" />
+          <mxGeometry height="30" width="170" x="-350.0000000000001" y="1529.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1cjh8PNVG9wR04FhQGM2-23" edge="1" parent="1" source="1cjh8PNVG9wR04FhQGM2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeWidth=3;flowAnimation=1;fillColor=#fa6800;strokeColor=#C73500;" target="1cjh8PNVG9wR04FhQGM2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1cjh8PNVG9wR04FhQGM2-25" edge="1" parent="1" source="1cjh8PNVG9wR04FhQGM2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;startFill=1;endArrow=none;endFill=0;strokeWidth=3;flowAnimation=1;fillColor=#60a917;strokeColor=#2D7600;" target="1cjh8PNVG9wR04FhQGM2-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1cjh8PNVG9wR04FhQGM2-7" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gateway;" value="" vertex="1">
           <mxGeometry height="78" width="76" x="2227.54" y="370" as="geometry" />
-        </mxCell>
-        <mxCell id="1cjh8PNVG9wR04FhQGM2-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="AWS Direct Connect Gateway" vertex="1">
-          <mxGeometry height="30" width="170" x="630" y="1600" as="geometry" />
         </mxCell>
         <mxCell id="1cjh8PNVG9wR04FhQGM2-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="AWS Direct Connect Gateway" vertex="1">
           <mxGeometry height="30" width="170" x="2320" y="394" as="geometry" />
