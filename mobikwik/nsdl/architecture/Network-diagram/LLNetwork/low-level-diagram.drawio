@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.4">
   <diagram name="Page-2" id="OU6sBK3JPVtz0nEnZWsY">
-    <mxGraphModel dx="3417" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4024" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,33 +36,25 @@
         <mxCell id="rvyoK8ltyKf3K2TowfSP-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" value="" vertex="1">
           <mxGeometry height="232.44" width="670" x="-1222.69" y="1098" as="geometry" />
         </mxCell>
-        <mxCell id="rvyoK8ltyKf3K2TowfSP-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="710.5" width="980.39" x="-1440" y="1060" as="geometry" />
-        </mxCell>
-        <mxCell id="rvyoK8ltyKf3K2TowfSP-7" edge="1" parent="1" source="rvyoK8ltyKf3K2TowfSP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" target="rvyoK8ltyKf3K2TowfSP-92" value="">
+        <mxCell id="rvyoK8ltyKf3K2TowfSP-7" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-788.5699999999999" y="1424" />
               <mxPoint x="-788.5699999999999" y="1424" />
             </Array>
+            <mxPoint x="-918.5699999999997" y="1424" as="sourcePoint" />
+            <mxPoint x="-768.5699999999997" y="1424" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rvyoK8ltyKf3K2TowfSP-8" parent="1" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#007FFF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" value="&lt;font color=&quot;#0000cc&quot;&gt;infra-nsdl-subnet-prod-firewall&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font color=&quot;#0000cc&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000cc&quot;&gt;10.12.88.0/24(az-1a)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000cc&quot;&gt;10.12.89.0/24(az-1b)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000cc&quot;&gt;10.12.90.0/24(az-1c)&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="123.13" width="200" x="-1118.57" y="1366.87" as="geometry" />
-        </mxCell>
-        <mxCell id="rvyoK8ltyKf3K2TowfSP-13" edge="1" parent="1" source="rvyoK8ltyKf3K2TowfSP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" target="rvyoK8ltyKf3K2TowfSP-8">
+        <mxCell id="rvyoK8ltyKf3K2TowfSP-13" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1148.57" y="1425" />
               <mxPoint x="-1148.57" y="1425" />
             </Array>
+            <mxPoint x="-1215.0700000000002" y="1425.1999999999998" as="sourcePoint" />
+            <mxPoint x="-1118.5699999999997" y="1425.1999999999998" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="rvyoK8ltyKf3K2TowfSP-14" parent="1" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#007FFF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" value="&lt;font color=&quot;#3333ff&quot;&gt;&lt;b&gt;infra-nsdl-subnet-prod-public&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;10.12.85.0/24(az-1a)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;10.12.86.0/24(az-1b)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;10.12.87.0/24(az-1c)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="122.44" width="194.68" x="-1409.75" y="1364.12" as="geometry" />
-        </mxCell>
-        <mxCell id="rvyoK8ltyKf3K2TowfSP-15" parent="1" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#007FFF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" value="&lt;font color=&quot;#0000ff&quot;&gt;infra-nsdl-subnet-prod-internal-lb&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;10.12.82.0/24(az-1a)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;10.12.83.0/24(az-1b)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;10.12.84.0/24(az-1c)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="127" width="212.34" x="-1124.74" y="1543" as="geometry" />
         </mxCell>
         <mxCell id="rvyoK8ltyKf3K2TowfSP-16" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&amp;nbsp;infra-nsdl-vpc-prod&lt;/b&gt;&lt;b&gt;&lt;br&gt;&amp;nbsp;ap-south-1(Mumbai)&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;10.12.64.0/19&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="140" x="-1409.75" y="1110" as="geometry" />
@@ -260,22 +252,21 @@
         <mxCell id="rvyoK8ltyKf3K2TowfSP-90" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.network_load_balancer;" value="Network Load Balancer" vertex="1">
           <mxGeometry height="110" width="80" x="-966.5699999999999" y="1220" as="geometry" />
         </mxCell>
-        <mxCell id="rvyoK8ltyKf3K2TowfSP-91" edge="1" parent="1" source="rvyoK8ltyKf3K2TowfSP-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" target="rvyoK8ltyKf3K2TowfSP-93">
+        <mxCell id="rvyoK8ltyKf3K2TowfSP-91" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-663.5699999999999" y="1540" />
               <mxPoint x="-663.5699999999999" y="1540" />
             </Array>
+            <mxPoint x="-663.5999999999999" y="1480" as="sourcePoint" />
+            <mxPoint x="-663.5999999999999" y="1563.33" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rvyoK8ltyKf3K2TowfSP-92" parent="1" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" value="&lt;font color=&quot;#3333ff&quot;&gt;&lt;u&gt;infra-nsdl-subnet-prod-private&lt;/u&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;u style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;10.12.64.0.0/24(az-1a)&lt;/font&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u style=&quot;background-color: transparent; color: light-dark(rgb(135, 145, 150), rgb(106, 115, 119));&quot;&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;10.12.72.0/24(az-1b)&lt;/font&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;10.12.68.0/24(az-1c)&lt;/font&gt;&lt;/u&gt;&lt;u&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;&lt;/font&gt;&lt;/u&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="210" x="-768.5699999999999" y="1360" as="geometry" />
-        </mxCell>
-        <mxCell id="rvyoK8ltyKf3K2TowfSP-93" parent="1" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#007FFF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" value="&lt;font color=&quot;#0000cc&quot;&gt;infra-nsdl-subnet-prod-database&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font color=&quot;#0000cc&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000cc&quot;&gt;&lt;b&gt;10.12.76.0/23(az-1a)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 204), rgb(212, 212, 255)); background-color: transparent;&quot;&gt;&lt;b&gt;10.12.78.0/23(az-1b)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;10.12.80.0/23(az-1c)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120.34" width="220" x="-768.5699999999999" y="1563.33" as="geometry" />
-        </mxCell>
-        <mxCell id="rvyoK8ltyKf3K2TowfSP-94" edge="1" parent="1" source="rvyoK8ltyKf3K2TowfSP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.757;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;" target="rvyoK8ltyKf3K2TowfSP-92">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rvyoK8ltyKf3K2TowfSP-94" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.757;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-912.3999999999996" y="1606.6" as="sourcePoint" />
+            <mxPoint x="-768.5699999999997" y="1450.8400000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wtl2c_H-9Pgk3k2bpC6l-1" edge="1" parent="1" source="wtl2c_H-9Pgk3k2bpC6l-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
@@ -295,7 +286,7 @@
           <mxGeometry height="232.44" width="670" x="-1222.69" y="1098" as="geometry" />
         </mxCell>
         <mxCell id="wtl2c_H-9Pgk3k2bpC6l-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="950" width="1118.57" x="-1485.85" y="1026" as="geometry" />
+          <mxGeometry height="950" width="1118.57" x="-1489.85" y="1035" as="geometry" />
         </mxCell>
         <mxCell id="wtl2c_H-9Pgk3k2bpC6l-8" parent="1" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#007FFF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" value="&lt;font color=&quot;#0000cc&quot;&gt;infra-nsdl-subnet-prod-firewall&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font color=&quot;#0000cc&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000cc&quot;&gt;10.12.88.0/24(az-1a)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000cc&quot;&gt;10.12.89.0/24(az-1b)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000cc&quot;&gt;10.12.90.0/24(az-1c)&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="206" width="221.57" x="-1031.57" y="1110" as="geometry" />
@@ -597,7 +588,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wtl2c_H-9Pgk3k2bpC6l-87" parent="1" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" value="&lt;font color=&quot;#3333ff&quot;&gt;&lt;u&gt;infra-nsdl-subnet-prod-private&lt;/u&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;u style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;10.12.64.0.0/24(az-1a)&lt;/font&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u style=&quot;background-color: transparent; color: light-dark(rgb(135, 145, 150), rgb(106, 115, 119));&quot;&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;10.12.72.0/24(az-1b)&lt;/font&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;10.12.68.0/24(az-1c)&lt;/font&gt;&lt;/u&gt;&lt;u&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;&lt;/font&gt;&lt;/u&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="wtl2c_H-9Pgk3k2bpC6l-87" parent="1" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=light-dark(#879196,#3399FF);fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" value="&lt;font color=&quot;#3333ff&quot;&gt;&lt;u&gt;infra-nsdl-subnet-prod-private&lt;/u&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;u style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;10.12.64.0.0/24(az-1a)&lt;/font&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u style=&quot;background-color: transparent; color: light-dark(rgb(135, 145, 150), rgb(106, 115, 119));&quot;&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;10.12.72.0/24(az-1b)&lt;/font&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;10.12.68.0/24(az-1c)&lt;/font&gt;&lt;/u&gt;&lt;u&gt;&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;&lt;/font&gt;&lt;/u&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="210" width="238.57" x="-735.57" y="1380" as="geometry" />
         </mxCell>
         <mxCell id="s_e3-NQhn_Ubqktr3WAS-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="NSDL Office Network&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
