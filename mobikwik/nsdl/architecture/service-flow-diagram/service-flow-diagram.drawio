@@ -7,20 +7,106 @@
         <mxCell id="yHVLL0OIzenu4-_YkkKU-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="500" width="930" x="-90" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="yHVLL0OIzenu4-_YkkKU-2" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;" value="" vertex="1">
-          <mxGeometry height="30" width="18" x="-20" y="250" as="geometry" />
-        </mxCell>
         <mxCell id="yHVLL0OIzenu4-_YkkKU-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="410" width="600" x="90" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="yHVLL0OIzenu4-_YkkKU-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="psp-gateway-service" vertex="1">
-          <mxGeometry height="280" width="100" x="150" y="150" as="geometry" />
+        <mxCell id="yHVLL0OIzenu4-_YkkKU-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="120" width="320" x="260" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="yHVLL0OIzenu4-_YkkKU-2" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;" value="" vertex="1">
+          <mxGeometry height="30" width="18" x="-20" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="yHVLL0OIzenu4-_YkkKU-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="280" width="80" x="140" y="150" as="geometry" />
         </mxCell>
         <mxCell id="yHVLL0OIzenu4-_YkkKU-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="150" width="255" x="305" y="130" as="geometry" />
+          <mxGeometry height="170" width="320" x="260" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="yHVLL0OIzenu4-_YkkKU-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="120" width="190" x="320" y="330" as="geometry" />
+        <mxCell id="yHVLL0OIzenu4-_YkkKU-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Onboarding services" vertex="1">
+          <mxGeometry height="30" width="150" x="270" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="yHVLL0OIzenu4-_YkkKU-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Transaction services" vertex="1">
+          <mxGeometry height="30" width="150" x="350" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="yHVLL0OIzenu4-_YkkKU-10" parent="1" style="shape=ellipse;fillColor=#A56EFF;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=12;" value="Device service" vertex="1">
+          <mxGeometry height="48" width="48" x="290" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yHVLL0OIzenu4-_YkkKU-11" parent="yHVLL0OIzenu4-_YkkKU-10" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.microservices--1" value="" vertex="1">
+          <mxGeometry height="24" relative="1" width="24" as="geometry">
+            <mxPoint x="12" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yHVLL0OIzenu4-_YkkKU-13" parent="1" style="shape=ellipse;fillColor=#A56EFF;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=12;" value="register-service" vertex="1">
+          <mxGeometry height="48" width="48" x="396" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yHVLL0OIzenu4-_YkkKU-14" parent="yHVLL0OIzenu4-_YkkKU-13" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.microservices--1" value="" vertex="1">
+          <mxGeometry height="24" relative="1" width="24" as="geometry">
+            <mxPoint x="12" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yHVLL0OIzenu4-_YkkKU-15" parent="1" style="shape=ellipse;fillColor=#A56EFF;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=12;" value="account-validate" vertex="1">
+          <mxGeometry height="48" width="48" x="500" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yHVLL0OIzenu4-_YkkKU-16" parent="yHVLL0OIzenu4-_YkkKU-15" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.microservices--1" value="" vertex="1">
+          <mxGeometry height="24" relative="1" width="24" as="geometry">
+            <mxPoint x="12" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yHVLL0OIzenu4-_YkkKU-17" parent="1" style="shape=ellipse;fillColor=#A56EFF;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=12;" value="s2s-service" vertex="1">
+          <mxGeometry height="48" width="48" x="290" y="202" as="geometry" />
+        </mxCell>
+        <mxCell id="yHVLL0OIzenu4-_YkkKU-18" parent="yHVLL0OIzenu4-_YkkKU-17" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.microservices--1" value="" vertex="1">
+          <mxGeometry height="24" relative="1" width="24" as="geometry">
+            <mxPoint x="12" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yHVLL0OIzenu4-_YkkKU-19" parent="1" style="shape=ellipse;fillColor=#A56EFF;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=12;" value="merchant onboarding" vertex="1">
+          <mxGeometry height="48" width="48" x="396" y="202" as="geometry" />
+        </mxCell>
+        <mxCell id="yHVLL0OIzenu4-_YkkKU-20" parent="yHVLL0OIzenu4-_YkkKU-19" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.microservices--1" value="" vertex="1">
+          <mxGeometry height="24" relative="1" width="24" as="geometry">
+            <mxPoint x="12" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yHVLL0OIzenu4-_YkkKU-21" parent="1" style="shape=ellipse;fillColor=#A56EFF;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=12;" value="setup consumer" vertex="1">
+          <mxGeometry height="48" width="48" x="500" y="202" as="geometry" />
+        </mxCell>
+        <mxCell id="yHVLL0OIzenu4-_YkkKU-22" parent="yHVLL0OIzenu4-_YkkKU-21" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.microservices--1" value="" vertex="1">
+          <mxGeometry height="24" relative="1" width="24" as="geometry">
+            <mxPoint x="12" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yHVLL0OIzenu4-_YkkKU-23" parent="1" style="shape=ellipse;fillColor=#A56EFF;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=12;" value="user txn service" vertex="1">
+          <mxGeometry height="48" width="48" x="290" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="yHVLL0OIzenu4-_YkkKU-24" parent="yHVLL0OIzenu4-_YkkKU-23" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.microservices--1" value="" vertex="1">
+          <mxGeometry height="24" relative="1" width="24" as="geometry">
+            <mxPoint x="12" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yHVLL0OIzenu4-_YkkKU-25" parent="1" style="shape=ellipse;fillColor=#A56EFF;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=12;" value="txn consumer" vertex="1">
+          <mxGeometry height="48" width="48" x="390" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="yHVLL0OIzenu4-_YkkKU-26" parent="yHVLL0OIzenu4-_YkkKU-25" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.microservices--1" value="" vertex="1">
+          <mxGeometry height="24" relative="1" width="24" as="geometry">
+            <mxPoint x="12" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yHVLL0OIzenu4-_YkkKU-27" parent="1" style="shape=ellipse;fillColor=#A56EFF;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=12;" value="acquirer txn service" vertex="1">
+          <mxGeometry height="48" width="48" x="500" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="yHVLL0OIzenu4-_YkkKU-28" parent="yHVLL0OIzenu4-_YkkKU-27" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.microservices--1" value="" vertex="1">
+          <mxGeometry height="24" relative="1" width="24" as="geometry">
+            <mxPoint x="12" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yHVLL0OIzenu4-_YkkKU-31" parent="1" style="shape=ellipse;fillColor=#A56EFF;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=12;" value="psp-payment-&#xa;service" vertex="1">
+          <mxGeometry height="48" width="48" x="156" y="232" as="geometry" />
+        </mxCell>
+        <mxCell id="yHVLL0OIzenu4-_YkkKU-32" parent="yHVLL0OIzenu4-_YkkKU-31" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.microservices--1" value="" vertex="1">
+          <mxGeometry height="24" relative="1" width="24" as="geometry">
+            <mxPoint x="12" y="12" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
