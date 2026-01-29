@@ -265,8 +265,8 @@
         <mxCell id="wtl2c_H-9Pgk3k2bpC6l-23" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.virtual_private_cloud;fillColor=#F58534;gradientColor=none;strokeColor=#007FFF;" value="" vertex="1">
           <mxGeometry height="54" width="79.5" x="-169.49999999999994" y="1555.07" as="geometry" />
         </mxCell>
-        <mxCell id="wtl2c_H-9Pgk3k2bpC6l-24" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;div&gt;10.12.102.0/26&lt;b&gt;(az-1a)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;10.12.101.128/25 (az-1b)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;10.12.101.0/25(az-1c)&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="160" x="425" y="1759.9999999999998" as="geometry" />
+        <mxCell id="wtl2c_H-9Pgk3k2bpC6l-24" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;div&gt;10.12.102.0/26&lt;b&gt;(az-1a)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;10.12.102.64/26&lt;b&gt;&amp;nbsp;(az-1b)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10.12.102.128/26&lt;b&gt;(az-1c)&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="430" y="1759.9999999999998" as="geometry" />
         </mxCell>
         <mxCell id="wtl2c_H-9Pgk3k2bpC6l-31" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#331A00;" value="&lt;b&gt;Employee&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="-522.8199999999999" y="2160" as="geometry" />
