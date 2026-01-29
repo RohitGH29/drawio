@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.6">
   <diagram name="Page-2" id="OU6sBK3JPVtz0nEnZWsY">
-    <mxGraphModel dx="7463" dy="3253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="6613" dy="3253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -241,9 +241,6 @@
         </mxCell>
         <mxCell id="wtl2c_H-9Pgk3k2bpC6l-33" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#331A00;" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Bastion Host&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="100" x="-491.0699999999997" y="3540" as="geometry" />
-        </mxCell>
-        <mxCell id="wtl2c_H-9Pgk3k2bpC6l-34" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;gradientColor=#7ea6e0;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Classification&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;: confidential&lt;/span&gt;&lt;/div&gt;&lt;b&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Version&lt;/b&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: 1.0&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;b&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Created on&lt;/b&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;: 29-01-2026&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;b&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Author&lt;/b&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="70" width="170" x="-2100" y="400" as="geometry" />
         </mxCell>
         <mxCell id="wtl2c_H-9Pgk3k2bpC6l-35" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#331A00;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="20" x="-1558.57" y="1740.19" as="geometry" />
