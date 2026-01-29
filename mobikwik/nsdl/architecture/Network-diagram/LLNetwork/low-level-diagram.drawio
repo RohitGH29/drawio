@@ -56,12 +56,6 @@
             <mxPoint x="-1118.5699999999997" y="1425.1999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rvyoK8ltyKf3K2TowfSP-16" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&amp;nbsp;infra-nsdl-vpc-prod&lt;/b&gt;&lt;b&gt;&lt;br&gt;&amp;nbsp;ap-south-1(Mumbai)&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;10.12.64.0/19&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="140" x="-1409.75" y="1110" as="geometry" />
-        </mxCell>
-        <mxCell id="rvyoK8ltyKf3K2TowfSP-17" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.virtual_private_cloud;fillColor=#F58534;gradientColor=none;strokeColor=#007FFF;" value="" vertex="1">
-          <mxGeometry height="54" width="79.5" x="-1380.9099999999999" y="1060" as="geometry" />
-        </mxCell>
         <mxCell id="lag_BDgYUlefeDjobDEi-83" edge="1" parent="1" source="rvyoK8ltyKf3K2TowfSP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" target="wtl2c_H-9Pgk3k2bpC6l-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -286,7 +280,7 @@
           <mxGeometry height="232.44" width="670" x="-1222.69" y="1098" as="geometry" />
         </mxCell>
         <mxCell id="wtl2c_H-9Pgk3k2bpC6l-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="950" width="1118.57" x="-1489.85" y="1035" as="geometry" />
+          <mxGeometry height="950" width="998.72" x="-1370" y="1035" as="geometry" />
         </mxCell>
         <mxCell id="wtl2c_H-9Pgk3k2bpC6l-8" parent="1" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#007FFF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" value="&lt;font color=&quot;#0000cc&quot;&gt;infra-nsdl-subnet-prod-firewall&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font color=&quot;#0000cc&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000cc&quot;&gt;10.12.88.0/24(az-1a)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000cc&quot;&gt;10.12.89.0/24(az-1b)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#0000cc&quot;&gt;10.12.90.0/24(az-1c)&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="206" width="221.57" x="-1031.57" y="1110" as="geometry" />
@@ -315,10 +309,10 @@
           <mxGeometry height="206" width="230" x="-738.57" y="1110" as="geometry" />
         </mxCell>
         <mxCell id="wtl2c_H-9Pgk3k2bpC6l-17" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;&amp;nbsp;infra-nsdl-vpc-prod&lt;/b&gt;&lt;b&gt;&lt;br&gt;&amp;nbsp;ap-south-1(Mumbai)&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;10.12.64.0/19&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="140" x="-1409.75" y="1110" as="geometry" />
+          <mxGeometry height="60" width="140" x="-1301.41" y="1114" as="geometry" />
         </mxCell>
         <mxCell id="wtl2c_H-9Pgk3k2bpC6l-18" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.virtual_private_cloud;fillColor=#F58534;gradientColor=none;strokeColor=#007FFF;" value="" vertex="1">
-          <mxGeometry height="54" width="79.5" x="-1380.9099999999999" y="1060" as="geometry" />
+          <mxGeometry height="54" width="79.5" x="-1269.7499999999998" y="1060" as="geometry" />
         </mxCell>
         <mxCell id="wtl2c_H-9Pgk3k2bpC6l-19" parent="1" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#007FFF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" value="" vertex="1">
           <mxGeometry height="156.64" width="226.69" x="520" y="1690" as="geometry" />
