@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.6">
   <diagram name="Page-2" id="OU6sBK3JPVtz0nEnZWsY">
-    <mxGraphModel dx="4393" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4024" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -279,16 +279,6 @@
         </mxCell>
         <mxCell id="wtl2c_H-9Pgk3k2bpC6l-26" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;infra-nsdl-subnet-admin-prod-internal-lb&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="230" x="520.0000000000001" y="1738.9999999999998" as="geometry" />
-        </mxCell>
-        <mxCell id="wtl2c_H-9Pgk3k2bpC6l-27" edge="1" parent="1" source="wtl2c_H-9Pgk3k2bpC6l-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;strokeColor=#00CC00;strokeWidth=3;fontSize=14;fontColor=#331A00;entryX=0.7;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;" target="wtl2c_H-9Pgk3k2bpC6l-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-717" y="2000" />
-              <mxPoint x="-717" y="1981" />
-            </Array>
-            <mxPoint x="-318.56999999999994" y="1880" as="sourcePoint" />
-            <mxPoint x="-589.5699999999999" y="1695" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="wtl2c_H-9Pgk3k2bpC6l-31" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#331A00;" value="&lt;b&gt;Employee&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="-522.8199999999999" y="2160" as="geometry" />
