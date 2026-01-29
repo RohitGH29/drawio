@@ -700,9 +700,10 @@
         <mxCell id="rlOFY49I31Hx1CSJnspg-3" parent="1" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#007FFF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;infra-nsdl-subnet-admin-prod-database&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="156.64" width="226.69" x="-499.9999999999999" y="3388.6800000000003" as="geometry" />
         </mxCell>
-        <mxCell id="rlOFY49I31Hx1CSJnspg-4" edge="1" parent="1" source="wtl2c_H-9Pgk3k2bpC6l-52" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=3;strokeColor=#CC6600;dashPattern=1 1;flowAnimation=1;" value="">
+        <mxCell id="rlOFY49I31Hx1CSJnspg-4" edge="1" parent="1" source="wtl2c_H-9Pgk3k2bpC6l-52" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=3;strokeColor=#CC6600;dashPattern=1 1;flowAnimation=1;" target="wtl2c_H-9Pgk3k2bpC6l-3" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="-539" y="2065" />
               <mxPoint x="-320" y="2065" />
               <mxPoint x="-320" y="1730" />
             </Array>
