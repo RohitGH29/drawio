@@ -1,16 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.6">
   <diagram name="Page-1" id="WdsWKO-43BAYkA1g98xI">
-    <mxGraphModel dx="2364" dy="2076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2532" dy="2184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="t5ZnA_76hcWuxUdet8Vl-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="990" width="1530" x="-720" y="-980" as="geometry" />
+          <mxGeometry height="990" width="1670" x="-720" y="-980" as="geometry" />
         </mxCell>
         <mxCell id="t5ZnA_76hcWuxUdet8Vl-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="270" width="794" x="-50" y="-470" as="geometry" />
+          <mxGeometry height="270" width="710" x="-50" y="-470" as="geometry" />
         </mxCell>
-        <mxCell id="t5ZnA_76hcWuxUdet8Vl-109" edge="1" parent="1" source="t5ZnA_76hcWuxUdet8Vl-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;fillColor=#a20025;strokeColor=#6F0000;strokeWidth=3;">
+        <mxCell id="t5ZnA_76hcWuxUdet8Vl-109" edge="1" parent="1" source="t5ZnA_76hcWuxUdet8Vl-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;fillColor=#e3c800;strokeColor=#B09500;strokeWidth=3;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-170" y="-490" as="targetPoint" />
           </mxGeometry>
@@ -31,7 +31,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t5ZnA_76hcWuxUdet8Vl-110" edge="1" parent="1" source="t5ZnA_76hcWuxUdet8Vl-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;strokeWidth=3;" target="t5ZnA_76hcWuxUdet8Vl-47">
+        <mxCell id="t5ZnA_76hcWuxUdet8Vl-110" edge="1" parent="1" source="t5ZnA_76hcWuxUdet8Vl-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;fillColor=#e51400;strokeColor=#B20000;strokeWidth=3;" target="t5ZnA_76hcWuxUdet8Vl-47">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-240" y="-390" />
@@ -151,14 +151,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t5ZnA_76hcWuxUdet8Vl-68" parent="1" style="shape=ellipse;fillColor=#A56EFF;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=12;" value="core-device" vertex="1">
-          <mxGeometry height="48" width="48" x="630" y="-360" as="geometry" />
+          <mxGeometry height="48" width="48" x="580" y="-360" as="geometry" />
         </mxCell>
         <mxCell id="t5ZnA_76hcWuxUdet8Vl-69" parent="t5ZnA_76hcWuxUdet8Vl-68" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.microservices--1" value="" vertex="1">
           <mxGeometry height="24" relative="1" width="24" as="geometry">
             <mxPoint x="12" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t5ZnA_76hcWuxUdet8Vl-72" edge="1" parent="1" source="t5ZnA_76hcWuxUdet8Vl-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#fa6800;strokeColor=#C73500;strokeWidth=3;edgeStyle=orthogonalEdgeStyle;">
+        <mxCell id="t5ZnA_76hcWuxUdet8Vl-72" edge="1" parent="1" source="t5ZnA_76hcWuxUdet8Vl-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=3;edgeStyle=orthogonalEdgeStyle;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-356" y="-140" />
@@ -224,6 +224,14 @@
               <mxPoint x="-680" y="-426" />
               <mxPoint x="-680" y="-86" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t5ZnA_76hcWuxUdet8Vl-119" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="VMN service" vertex="1">
+          <mxGeometry height="60" width="120" x="790" y="-366" as="geometry" />
+        </mxCell>
+        <mxCell id="t5ZnA_76hcWuxUdet8Vl-120" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;flowAnimation=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;" target="t5ZnA_76hcWuxUdet8Vl-119">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="-336" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
