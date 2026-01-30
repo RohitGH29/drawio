@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.6">
   <diagram name="Page-1" id="WdsWKO-43BAYkA1g98xI">
-    <mxGraphModel dx="983" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2112" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="t5ZnA_76hcWuxUdet8Vl-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="500" width="1325" x="-510" y="-490" as="geometry" />
+        </mxCell>
+        <mxCell id="t5ZnA_76hcWuxUdet8Vl-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="270" width="1004" x="-260" y="-470" as="geometry" />
+        </mxCell>
+        <mxCell id="t5ZnA_76hcWuxUdet8Vl-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="170" width="520" x="-210" y="-420" as="geometry" />
+        </mxCell>
         <mxCell id="t5ZnA_76hcWuxUdet8Vl-1" parent="1" style="shape=ellipse;fillColor=#A56EFF;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=12;" value="NPCI interface service" vertex="1">
           <mxGeometry height="48" width="48" x="500" y="300" as="geometry" />
         </mxCell>
@@ -40,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t5ZnA_76hcWuxUdet8Vl-9" parent="1" style="shape=ellipse;fillColor=#A56EFF;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=12;" value="core-device" vertex="1">
-          <mxGeometry height="48" width="48" x="720" y="70" as="geometry" />
+          <mxGeometry height="48" width="48" x="760" y="300" as="geometry" />
         </mxCell>
         <mxCell id="t5ZnA_76hcWuxUdet8Vl-10" parent="t5ZnA_76hcWuxUdet8Vl-9" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.microservices--1" value="" vertex="1">
           <mxGeometry height="24" relative="1" width="24" as="geometry">
@@ -184,6 +193,25 @@
               <mxPoint x="700" y="340" />
               <mxPoint x="548" y="340" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t5ZnA_76hcWuxUdet8Vl-42" edge="1" parent="1" source="t5ZnA_76hcWuxUdet8Vl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;flowAnimation=1;" target="t5ZnA_76hcWuxUdet8Vl-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="94" />
+              <mxPoint x="480" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t5ZnA_76hcWuxUdet8Vl-43" edge="1" parent="1" source="t5ZnA_76hcWuxUdet8Vl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;flowAnimation=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" target="t5ZnA_76hcWuxUdet8Vl-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t5ZnA_76hcWuxUdet8Vl-47" parent="1" style="shape=ellipse;fillColor=#A56EFF;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=12;" value="NPCI interface service" vertex="1">
+          <mxGeometry height="48" width="48" x="220" y="-90" as="geometry" />
+        </mxCell>
+        <mxCell id="t5ZnA_76hcWuxUdet8Vl-48" parent="t5ZnA_76hcWuxUdet8Vl-47" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.microservices--1" value="" vertex="1">
+          <mxGeometry height="24" relative="1" width="24" as="geometry">
+            <mxPoint x="12" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
