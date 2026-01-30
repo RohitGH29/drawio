@@ -28,7 +28,7 @@
             <mxPoint x="12" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t5ZnA_76hcWuxUdet8Vl-26" edge="1" parent="1" source="t5ZnA_76hcWuxUdet8Vl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="t5ZnA_76hcWuxUdet8Vl-18">
+        <mxCell id="t5ZnA_76hcWuxUdet8Vl-26" edge="1" parent="1" source="t5ZnA_76hcWuxUdet8Vl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;flowAnimation=1;curved=1;" target="t5ZnA_76hcWuxUdet8Vl-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t5ZnA_76hcWuxUdet8Vl-7" parent="1" style="shape=ellipse;fillColor=#A56EFF;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=12;" value="payment-user" vertex="1">
@@ -87,8 +87,17 @@
             <mxPoint x="12" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t5ZnA_76hcWuxUdet8Vl-27" edge="1" parent="1" source="t5ZnA_76hcWuxUdet8Vl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;flowAnimation=1;fillColor=#0050ef;strokeColor=#001DBC;" target="t5ZnA_76hcWuxUdet8Vl-18">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="t5ZnA_76hcWuxUdet8Vl-27" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;fillColor=#b1ddf0;strokeColor=#10739e;curved=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="94" />
+              <mxPoint x="210" y="268" />
+              <mxPoint x="120" y="268" />
+              <mxPoint x="120" y="270" />
+            </Array>
+            <mxPoint x="253" y="94" as="sourcePoint" />
+            <mxPoint x="110" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="t5ZnA_76hcWuxUdet8Vl-28" edge="1" parent="1" source="t5ZnA_76hcWuxUdet8Vl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;fillColor=#a0522d;strokeColor=#6D1F00;curved=1;" target="t5ZnA_76hcWuxUdet8Vl-6">
           <mxGeometry relative="1" as="geometry">
