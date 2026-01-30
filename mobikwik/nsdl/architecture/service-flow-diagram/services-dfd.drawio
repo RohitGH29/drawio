@@ -242,8 +242,8 @@
             <mxPoint x="630" y="-336" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t5ZnA_76hcWuxUdet8Vl-123" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Note:&lt;br&gt;1.&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="60" x="540" y="-950" as="geometry" />
+        <mxCell id="t5ZnA_76hcWuxUdet8Vl-123" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;strong data-start=&quot;36&quot; data-end=&quot;45&quot;&gt;Note:&lt;/strong&gt; PSP services talk to each other using Kubernetes DNS names." vertex="1">
+          <mxGeometry height="30" width="280" x="540" y="-950" as="geometry" />
         </mxCell>
         <mxCell id="t5ZnA_76hcWuxUdet8Vl-124" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;code&gt;paym.nsdlonlinebank.co.in&lt;/code&gt;&lt;br&gt;(Public endpoint) (whitestisted MBK IPs)" vertex="1">
           <mxGeometry height="30" width="240" x="198" y="-761" as="geometry" />
